@@ -2,6 +2,7 @@
 A multi-agent AI system to enhance supply chain resilience for small businesses using Python (Mesa) and JavaScript (React).
 
 ![Dashboard](screenshot.png)
+![Dashboard](screenshot2.png)
 
 ## Overview 
 This project simulates a supply chain with Supplier and Retailer agents. Agents detect disruptions (e.g., low inventory) and communicate to mitigate issues (e.g., place orders). A React dashboard visualizes inventory levels and agent messages.
