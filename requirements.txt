@@ -1,0 +1,5 @@
+mesa==2.3.0
+flask==2.3.3
+numpy==1.26.4
+pandas==2.2.2
+flask-cors==4.0.1
